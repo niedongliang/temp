@@ -1,2 +1,2 @@
 hello.c是程序入口
-hi.c是功能函数,include a add fun
+hi.c是功能 ,include a add fun
