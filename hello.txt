@@ -1,2 +1,0 @@
-hello.c是程序入口
-hi.c是功能 ,include a add fun
